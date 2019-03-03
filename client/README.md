@@ -1,30 +1,11 @@
-# client
+# A VueJS + Axios Project
 
-> A Vue.js project
+## Local Setup
+1. Clone the repo.
+2. ```sudo npm install```
+3. ```npm run dev```
+4. vist https://localhost:8080
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Things to do.
+1. Set up a staging and production deploy config.
+2. Add bootstrap and add bootstrap styles.
